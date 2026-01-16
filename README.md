@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **European robotics projects**
 
-- 📝I published an article about fitler-based segmentation [https://ieeexplore.ieee.org/document/11106616](https://ieeexplore.ieee.org/document/11106616)
+- 📝I published an article about fitler-based segmentation (presented on 2025 IEEE International Conference on Engineering, Technology, and Innovation): [https://ieeexplore.ieee.org/document/11106616](https://ieeexplore.ieee.org/document/11106616)
 
 - 📫 How to reach me **adpfiste@ai2.upv.es (professional email)**
 
