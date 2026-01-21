@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine Pfister</h1>
 <h3 align="center">A french robotics engineer with a Mechanical Engineering background.</h3>
 
-- 🔭 I’m currently working on **European robotics projects**
+- 🔭 I’m currently working in research on robotics
 
 - 📝I published an article about fitler-based segmentation (presented on **2025 IEEE International Conference on Engineering, Technology, and Innovation**): [https://ieeexplore.ieee.org/document/11106616](https://ieeexplore.ieee.org/document/11106616)
 
